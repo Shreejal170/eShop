@@ -42,6 +42,7 @@ JWTSECRET="anykey"
 1. Start the backend server using nodemon. Note the port that the server is running on (usually port 5000).
 ![Screenshot 2024-05-13 155559](https://github.com/Shreejal170/eShop/assets/71423666/50111746-0718-41a4-9989-62036f6d9943)
 2. In the frontend directory, create a .env file and set your private IP address and the port number where the backend is hosted. For example: 192.168.*.*:5000.
+
 ![Screenshot 2024-05-13 155706](https://github.com/Shreejal170/eShop/assets/71423666/0ec94550-7945-4f6b-aa58-ed5a7819a0ed)
 ![Screenshot 2024-05-13 155808](https://github.com/Shreejal170/eShop/assets/71423666/0c758789-6934-4e85-9cba-2e7cf556a36b)
 ```
