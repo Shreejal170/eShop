@@ -62,18 +62,18 @@ npm run
 ## Installation and Usage (for Contributors)
 
 Follow the steps mentioned in the "Installation and Usage (for End-Users)" section.
-Create a new branch for your feature or bug fix: git checkout -b my-new-feature
-Make the necessary changes and commit them: git commit -m 'Add some feature'
-Push to the branch: git push origin my-new-feature
-Submit a pull request describing your changes.
+* Create a new branch for your feature or bug fix: git checkout -b my-new-feature
+* Make the necessary changes and commit them: git commit -m 'Add some feature'
+* Push to the branch: git push origin my-new-feature
+* Submit a pull request describing your changes.
 
 ## Contributor Expectations
 I welcome contributions to improve eShop! If you would like to contribute, please follow these guidelines:
 
-Fork the repository and create a new branch for your feature or bug fix.
-Ensure that your code follows the project's coding style and conventions.
-Write clear and concise commit messages.
-Document any new features or changes in the codebase.
-Test your changes thoroughly before submitting a pull request.
-Include relevant issue numbers in your pull request description.
+* Fork the repository and create a new branch for your feature or bug fix.
+* Ensure that your code follows the project's coding style and conventions.
+* Write clear and concise commit messages.
+* Document any new features or changes in the codebase.
+* Test your changes thoroughly before submitting a pull request.
+* Include relevant issue numbers in your pull request description.
 
