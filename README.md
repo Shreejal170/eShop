@@ -55,7 +55,7 @@ npm run
 > [!NOTE]
 > You can also set up a command to run both programs concurrently.
 
-> [!IMPORTANT]:
+> [!IMPORTANT]
 > Before you begin exploring the user interface, it’s best to create a seller account and post some products which will be shown in the user interface.
 
 
