@@ -7,7 +7,7 @@ eShop is a modern and user-friendly online shopping platform built with cutting-
 
 ## Key Features
 * Create Request: Users can create requests for products they are unable to find on the platform, specifying details such as product name, category, specifications, price range, and even upload reference images.
-* Secure Authentication: Implemented using industry-standard encryption libraries like bcrypt and JSON Web Tokens, ensuring the safety of user information and transactions.
+* Secure Authentication: Implemented using industry-standard encryption libraries like bcrypt and JSON Web Tokens, ensuring the safety of user information.
 * Responsive Design: The platform is built with a responsive design, ensuring a seamless shopping experience across different devices, including desktops, tablets, and mobile phones.
 * User-Friendly Interface: The intuitive and visually appealing interface, powered by ReactJS and Tailwind CSS, provides a smooth and enjoyable shopping experience.
 * Seller Dashboard: Sellers can manage their products, view and respond to user requests, and offer discounted prices for requested items.
@@ -24,7 +24,7 @@ cd eShop
 ```
 ### Install the dependencies
 ```
-Install dependencies: npm install
+npm install
 ```
 
 ## Configuration
