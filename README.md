@@ -52,9 +52,11 @@ This will allow you to test your application in mobile phones which are connecte
 ```
 npm run
 ```
-> **NOTE:** You can also set up a command to run both programs concurrently.
+> [!NOTE]
+> You can also set up a command to run both programs concurrently.
 
-> **IMPORTANT:** Before you begin exploring the user interface, it’s best to create a seller account and post some products which will be shown in the user interface.
+> [!IMPORTANT]:
+> Before you begin exploring the user interface, it’s best to create a seller account and post some products which will be shown in the user interface.
 
 
 ## Installation and Usage (for Contributors)
